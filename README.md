@@ -4,8 +4,6 @@ O Koba corrige as **atividades de registro** da plataforma **Educação Profissi
 
 Ele roda dentro do **Claude** (app do computador), como um plugin.
 
-> O nome é uma homenagem à E.E. Prof. Paulo **Koba**yashi (Suzano-SP), onde o Koba nasceu.
-
 ---
 
 ## O que o Koba faz
