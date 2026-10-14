@@ -1,0 +1,12 @@
+{
+  "nome": "Rigoroso",
+  "descricao": "Cobra autoria e completude. Bom para turmas finais ou atividades que valem muito.",
+  "notas": {
+    "completa": 10, "erro_pequeno": 7, "parcial": 5, "relato_generico": 4,
+    "so_feito_em_sala": 2, "so_repetiu_roteiro": 0,
+    "ia_conteudo_certo": 3, "ia_sem_conteudo": 0,
+    "semana_errada": 6, "vazio_ou_sem_relacao": 0
+  },
+  "atraso": { "desconto": 2 },
+  "textos_iguais": { "acao": "avisar_e_descontar", "desconto": 3 }
+}

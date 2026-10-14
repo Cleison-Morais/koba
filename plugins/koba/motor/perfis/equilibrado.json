@@ -1,0 +1,12 @@
+{
+  "nome": "Equilibrado",
+  "descricao": "Padrão. Diferencia bem quem fez de verdade de quem só cumpriu tabela.",
+  "notas": {
+    "completa": 10, "erro_pequeno": 8, "parcial": 6, "relato_generico": 7,
+    "so_feito_em_sala": 5, "so_repetiu_roteiro": 4,
+    "ia_conteudo_certo": 6, "ia_sem_conteudo": 3,
+    "semana_errada": 8, "vazio_ou_sem_relacao": 0
+  },
+  "atraso": { "desconto": 0 },
+  "textos_iguais": { "acao": "avisar", "desconto": 0 }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "koba",
+  "version": "1.0.0",
+  "description": "Koba – corrige atividades de registro da plataforma Educação Profissional (SEDUC-SP) com rigor configurável e monta a planilha de médias.",
+  "author": { "name": "Cleison Morais" },
+  "homepage": "https://github.com/Cleison-Morais/koba",
+  "license": "MIT",
+  "keywords": ["educação", "correção", "notas", "moodle", "seduc-sp", "professor"]
+}

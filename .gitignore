@@ -1,0 +1,11 @@
+# Dados de alunos e configuração pessoal NUNCA vão para o GitHub
+config.json
+regras_alunos.json
+calibracao.json
+estado.json
+dados/
+entrada/
+*.xlsx
+*.csv
+KOBA.txt
+__pycache__/

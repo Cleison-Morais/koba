@@ -1,0 +1,27 @@
+{
+  "professor": "Seu nome",
+  "plataforma": "https://educacaoprofissional.educacao.sp.gov.br",
+  "planilha": "NOTAS KOBA.xlsx",
+
+  "rigor": "equilibrado",
+  "ajustes": {},
+
+  "feedback": { "tamanho": "curto", "tom": "informal", "dica_de_melhoria": true },
+  "publicacao": "sempre_pedir_ok",
+
+  "pesos": { "registro": 0.2, "quiz": 0.1, "prova_paulista": 0.3, "classroom": 0.4 },
+  "nome_outra_nota": "Classroom",
+  "arredondamento": "normal",
+  "nota_corte": 5,
+  "semana_inicial": 1,
+  "semana_final": 99,
+
+  "disciplinas": [
+    { "curso": "123", "aba": "Lógica 2A", "grupo": null, "rigor": null }
+  ],
+  "abas": { "123": "Lógica 2A" },
+  "pesos_por_aba": {},
+  "nome_classroom_por_aba": {},
+
+  "limite_por_execucao": 80
+}

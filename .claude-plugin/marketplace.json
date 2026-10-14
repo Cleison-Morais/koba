@@ -1,0 +1,13 @@
+{
+  "name": "koba",
+  "owner": { "name": "Cleison Morais" },
+  "metadata": { "description": "Koba – agente que corrige atividades da Educação Profissional (SEDUC-SP)" },
+  "plugins": [
+    {
+      "name": "koba",
+      "source": "./plugins/koba",
+      "description": "Corrige atividades de registro da plataforma Educação Profissional, com nível de rigor configurável, publica notas com ok do professor e monta a planilha de médias.",
+      "version": "1.0.0"
+    }
+  ]
+}

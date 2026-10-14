@@ -1,0 +1,12 @@
+{
+  "nome": "Acolhedor",
+  "descricao": "Valoriza quem entregou. Bom para turmas pouco engajadas ou início de curso.",
+  "notas": {
+    "completa": 10, "erro_pequeno": 9, "parcial": 7, "relato_generico": 7,
+    "so_feito_em_sala": 6, "so_repetiu_roteiro": 5,
+    "ia_conteudo_certo": 8, "ia_sem_conteudo": 4,
+    "semana_errada": 10, "vazio_ou_sem_relacao": 0
+  },
+  "atraso": { "desconto": 0 },
+  "textos_iguais": { "acao": "avisar", "desconto": 0 }
+}
